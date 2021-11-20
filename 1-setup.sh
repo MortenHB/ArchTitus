@@ -82,7 +82,7 @@ PKGS=(
 'breeze-gtk'
 'bridge-utils'
 'btrfs-progs'
-'celluloid' # video players
+'vlc'
 'cmatrix'
 'code' # Visual Studio code
 'cronie'
@@ -168,7 +168,6 @@ PKGS=(
 'python-psutil'
 'python-pyqt5'
 'python-pip'
-'qemu'
 'rsync'
 'sddm'
 'sddm-kcm'
